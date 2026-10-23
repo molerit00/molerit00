@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="414" viewBox="0 0 820 414" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<style>
+.card{fill:#ffffff;stroke:#d0d7de}.t{fill:#1f2328}.m{fill:#656d76}.trk{stroke:#eef1f4}.chip{fill:#f6f8fa;stroke:#d0d7de}
+@media (prefers-color-scheme:dark){.card{fill:#0d1117;stroke:#30363d}.t{fill:#e6edf3}.m{fill:#8d96a0}.trk{stroke:#21262d}.chip{fill:#161b22;stroke:#30363d}}
+.ln{animation:g 1.1s cubic-bezier(.2,.8,.2,1) both}
+@keyframes g{from{stroke-dashoffset:var(--l)}to{stroke-dashoffset:0}}
+.fd{animation:f .6s ease both}@keyframes f{from{opacity:0}to{opacity:1}}
+</style>
+<rect class="card" x="1" y="1" width="818" height="412" rx="14" stroke-width="1.5"/>
+<text x="36" y="52" class="t" font-size="22" font-weight="700">Especialidades</text>
+<g class="fd" style="animation-delay:0.0s">
+<rect x="36" y="82" width="4" height="26" rx="2" fill="#F59E0B"/>
+<text x="50" y="100" class="t" font-size="14" font-weight="700">AWS</text>
+<rect class="chip" x="200" y="84" width="41" height="24" rx="12" stroke-width="1"/>
+<text x="221" y="100" text-anchor="middle" class="m" font-size="12">EC2</text>
+<rect class="chip" x="247" y="84" width="35" height="24" rx="12" stroke-width="1"/>
+<text x="265" y="100" text-anchor="middle" class="m" font-size="12">S3</text>
+<rect class="chip" x="288" y="84" width="41" height="24" rx="12" stroke-width="1"/>
+<text x="309" y="100" text-anchor="middle" class="m" font-size="12">IAM</text>
+<rect class="chip" x="336" y="84" width="41" height="24" rx="12" stroke-width="1"/>
+<text x="357" y="100" text-anchor="middle" class="m" font-size="12">VPC</text>
+<rect class="chip" x="383" y="84" width="41" height="24" rx="12" stroke-width="1"/>
+<text x="404" y="100" text-anchor="middle" class="m" font-size="12">RDS</text>
+<rect class="chip" x="431" y="84" width="87" height="24" rx="12" stroke-width="1"/>
+<text x="474" y="100" text-anchor="middle" class="m" font-size="12">CloudFront</text>
+<rect class="chip" x="524" y="84" width="74" height="24" rx="12" stroke-width="1"/>
+<text x="560" y="100" text-anchor="middle" class="m" font-size="12">Route 53</text>
+</g>
+<g class="fd" style="animation-delay:0.1s">
+<rect x="36" y="134" width="4" height="58" rx="2" fill="#3B7BBF"/>
+<text x="50" y="152" class="t" font-size="14" font-weight="700">Infraestructura</text>
+<rect class="chip" x="200" y="136" width="54" height="24" rx="12" stroke-width="1"/>
+<text x="227" y="152" text-anchor="middle" class="m" font-size="12">Linux</text>
+<rect class="chip" x="260" y="136" width="113" height="24" rx="12" stroke-width="1"/>
+<text x="317" y="152" text-anchor="middle" class="m" font-size="12">Virtualización</text>
+<rect class="chip" x="379" y="136" width="54" height="24" rx="12" stroke-width="1"/>
+<text x="406" y="152" text-anchor="middle" class="m" font-size="12">Redes</text>
+<rect class="chip" x="440" y="136" width="93" height="24" rx="12" stroke-width="1"/>
+<text x="486" y="152" text-anchor="middle" class="m" font-size="12">Data center</text>
+<rect class="chip" x="539" y="136" width="93" height="24" rx="12" stroke-width="1"/>
+<text x="585" y="152" text-anchor="middle" class="m" font-size="12">Storage SAN</text>
+<rect class="chip" x="638" y="136" width="113" height="24" rx="12" stroke-width="1"/>
+<text x="694" y="152" text-anchor="middle" class="m" font-size="12">Object storage</text>
+<rect class="chip" x="200" y="168" width="93" height="24" rx="12" stroke-width="1"/>
+<text x="247" y="184" text-anchor="middle" class="m" font-size="12">Backup y DR</text>
+</g>
+<g class="fd" style="animation-delay:0.2s">
+<rect x="36" y="218" width="4" height="26" rx="2" fill="#2E9E6A"/>
+<text x="50" y="236" class="t" font-size="14" font-weight="700">Backend</text>
+<rect class="chip" x="200" y="220" width="61" height="24" rx="12" stroke-width="1"/>
+<text x="230" y="236" text-anchor="middle" class="m" font-size="12">Python</text>
+<rect class="chip" x="267" y="220" width="35" height="24" rx="12" stroke-width="1"/>
+<text x="284" y="236" text-anchor="middle" class="m" font-size="12">Go</text>
+<rect class="chip" x="308" y="220" width="80" height="24" rx="12" stroke-width="1"/>
+<text x="348" y="236" text-anchor="middle" class="m" font-size="12">APIs REST</text>
+<rect class="chip" x="394" y="220" width="54" height="24" rx="12" stroke-width="1"/>
+<text x="421" y="236" text-anchor="middle" class="m" font-size="12">MySQL</text>
+<rect class="chip" x="455" y="220" width="87" height="24" rx="12" stroke-width="1"/>
+<text x="498" y="236" text-anchor="middle" class="m" font-size="12">PostgreSQL</text>
+<rect class="chip" x="547" y="220" width="61" height="24" rx="12" stroke-width="1"/>
+<text x="578" y="236" text-anchor="middle" class="m" font-size="12">SQLite</text>
+<rect class="chip" x="614" y="220" width="41" height="24" rx="12" stroke-width="1"/>
+<text x="635" y="236" text-anchor="middle" class="m" font-size="12">ETL</text>
+</g>
+<g class="fd" style="animation-delay:0.3s">
+<rect x="36" y="270" width="4" height="26" rx="2" fill="#7B5CC4"/>
+<text x="50" y="288" class="t" font-size="14" font-weight="700">Desarrollo</text>
+<rect class="chip" x="200" y="272" width="87" height="24" rx="12" stroke-width="1"/>
+<text x="243" y="288" text-anchor="middle" class="m" font-size="12">JavaScript</text>
+<rect class="chip" x="293" y="272" width="48" height="24" rx="12" stroke-width="1"/>
+<text x="317" y="288" text-anchor="middle" class="m" font-size="12">HTML</text>
+<rect class="chip" x="347" y="272" width="48" height="24" rx="12" stroke-width="1"/>
+<text x="371" y="288" text-anchor="middle" class="m" font-size="12">HTMX</text>
+<rect class="chip" x="401" y="272" width="61" height="24" rx="12" stroke-width="1"/>
+<text x="431" y="288" text-anchor="middle" class="m" font-size="12">Docker</text>
+<rect class="chip" x="468" y="272" width="41" height="24" rx="12" stroke-width="1"/>
+<text x="488" y="288" text-anchor="middle" class="m" font-size="12">Git</text>
+<rect class="chip" x="515" y="272" width="48" height="24" rx="12" stroke-width="1"/>
+<text x="539" y="288" text-anchor="middle" class="m" font-size="12">Bash</text>
+<rect class="chip" x="569" y="272" width="41" height="24" rx="12" stroke-width="1"/>
+<text x="590" y="288" text-anchor="middle" class="m" font-size="12">NLP</text>
+</g>
+<g class="fd" style="animation-delay:0.4s">
+<rect x="36" y="322" width="4" height="58" rx="2" fill="#E5533D"/>
+<text x="50" y="340" class="t" font-size="14" font-weight="700">Ciberseguridad</text>
+<rect class="chip" x="200" y="324" width="80" height="24" rx="12" stroke-width="1"/>
+<text x="240" y="340" text-anchor="middle" class="m" font-size="12">Hardening</text>
+<rect class="chip" x="286" y="324" width="80" height="24" rx="12" stroke-width="1"/>
+<text x="326" y="340" text-anchor="middle" class="m" font-size="12">Firewalls</text>
+<rect class="chip" x="373" y="324" width="119" height="24" rx="12" stroke-width="1"/>
+<text x="432" y="340" text-anchor="middle" class="m" font-size="12">VPN / WireGuard</text>
+<rect class="chip" x="498" y="324" width="41" height="24" rx="12" stroke-width="1"/>
+<text x="519" y="340" text-anchor="middle" class="m" font-size="12">SSH</text>
+<rect class="chip" x="545" y="324" width="139" height="24" rx="12" stroke-width="1"/>
+<text x="615" y="340" text-anchor="middle" class="m" font-size="12">Ingeniería inversa</text>
+<rect class="chip" x="200" y="356" width="152" height="24" rx="12" stroke-width="1"/>
+<text x="276" y="372" text-anchor="middle" class="m" font-size="12">Análisis de binarios</text>
+<rect class="chip" x="358" y="356" width="67" height="24" rx="12" stroke-width="1"/>
+<text x="391" y="372" text-anchor="middle" class="m" font-size="12">Cifrado</text>
+</g>
+</svg>
